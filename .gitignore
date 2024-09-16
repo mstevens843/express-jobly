@@ -1,0 +1,17 @@
+# Node modules
+/node_modules
+
+# Build output
+/build
+/dist
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+/coverage
+
+.env
+.env.local
+
+
